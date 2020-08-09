@@ -8464,6 +8464,14 @@ h1, h2, h3, h4, h5,
   right: 0;
   bottom: 120px;
   z-index: 2; }
+  
+  .mouse1 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 120px;
+  z-index: 17; }
+
 
 .mouse-icon {
   width: 70px;
